@@ -1,30 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab006_Variables_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab007_Variables_Identifier_Rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab008_Dynamically_Typed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab014_Math_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "iam-abhiishek"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/iam-abhiishek/PyATB5XLearning.git",
+    "accountId": "fb23c35c-a9aa-4940-b906-132302ccf80b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2oPaXX0aUUQyGNDreNXeBP3GNiG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab001_Python_HelloWorld.executor": "Run",
+    "Python.Lab002_Python_Basics.executor": "Run",
+    "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007_Variables_Identifier_Rules.executor": "Run",
+    "Python.Lab008_Dynamically_Typed.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014_Math_Functions.executor": "Run",
+    "Python.Lab015.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Nov/ex_07112024_keywords_idebtifier_variables"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables" />
+      <recent name="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
