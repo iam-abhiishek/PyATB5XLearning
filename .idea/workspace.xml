@@ -4,22 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="7 nov added codes">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab020_Inbuilt_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab021_UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab022_User_Input_Sum_Of_Two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab023_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab024_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab025_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab026_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab027_Escape_Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab028_Escape_Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task2.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="9 nov added codes">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab031_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab032_Operator_Arhematic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab033_Operators_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab034_Operators_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab035_Operators_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab036_Operators_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab037_Operators_P5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab038_Operators_P6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab039_Operators_P7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab040_Operators_P8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_Ternary_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab042_User_Input_Ternary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab043_Coding_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab044_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab045_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,13 +92,30 @@
     "Python.Lab028_Escape_Char.executor": "Run",
     "Python.Lab029_Task1.executor": "Run",
     "Python.Lab030_Task2.executor": "Run",
+    "Python.Lab031_Operators.executor": "Run",
+    "Python.Lab032_Operator_Arhematic.executor": "Run",
+    "Python.Lab033_Operators_P1.executor": "Run",
+    "Python.Lab033_Operators_P2.executor": "Run",
+    "Python.Lab035_Operators_P3.executor": "Run",
+    "Python.Lab036_Operators_P4.executor": "Run",
+    "Python.Lab037_Operators_P5.executor": "Run",
+    "Python.Lab038_Operators_P6.executor": "Run",
+    "Python.Lab039_Operators_P7.executor": "Run",
+    "Python.Lab040_Operators_P8.executor": "Run",
+    "Python.Lab041_Ternary_Operators.executor": "Run",
+    "Python.Lab042_User_Input_Ternary_Operator.executor": "Run",
+    "Python.Lab043_Coding_Q.executor": "Run",
+    "Python.Lab044_Task1.executor": "Run",
+    "Python.Lab045_Task2.executor": "Run",
+    "Python.Lab046_Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Nov/ex_07112024_keywords_idebtifier_variables"
+    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Nov/ex_12112024_Operators"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
       <recent name="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables" />
       <recent name="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
     </key>
@@ -126,11 +144,20 @@
       <option name="project" value="LOCAL" />
       <updated>1731007635080</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="9 nov added codes">
+      <option name="closed" value="true" />
+      <created>1731146384636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731146384636</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7 nov added codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 nov added codes" />
+    <MESSAGE value="9 nov added codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 nov added codes" />
   </component>
 </project>
