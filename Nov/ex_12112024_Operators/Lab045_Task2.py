@@ -1,6 +1,6 @@
 #Task #2
 
-a=11
+#a=11
 print(type(a))
 
 if a == 10:
