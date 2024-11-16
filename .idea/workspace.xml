@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="Lab045 code modified">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab048_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab049_If_Else_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab050_If_Else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab051_Grade_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab052_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab053_Task2.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="15 Nov code added">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab055_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab056_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab059_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab060_For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab061_For_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab062_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab063_pass_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab064_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab065_Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab066_Match_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab068_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +114,24 @@
     "Python.Lab051_Grade_Calc.executor": "Run",
     "Python.Lab052_Task1.executor": "Run",
     "Python.Lab053_Task2.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055_For_Loop.executor": "Debug",
+    "Python.Lab056_For_Loop.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059_While.executor": "Run",
+    "Python.Lab060_For.executor": "Run",
+    "Python.Lab061_For_break.executor": "Run",
+    "Python.Lab062_Q.executor": "Run",
+    "Python.Lab063_pass_break.executor": "Run",
+    "Python.Lab064_Q.executor": "Run",
+    "Python.Lab065_Continue.executor": "Run",
+    "Python.Lab066_Match_Statement.executor": "Run",
+    "Python.Lab067.executor": "Debug",
+    "Python.Lab068_Task.executor": "Run",
+    "Python.ex_1.executor": "Run",
+    "Python.ex_2_Variables.executor": "Run",
+    "Python.ex_3_List.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Nov/ex_12112024_Operators"
@@ -166,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731524774251</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="14 Nov code pushed">
+      <option name="closed" value="true" />
+      <created>1731599201480</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731599201481</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,6 +208,22 @@
     <MESSAGE value="9 nov added codes" />
     <MESSAGE value="12 nov added codes" />
     <MESSAGE value="Lab045 code modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab045 code modified" />
+    <MESSAGE value="14 Nov code pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 Nov code pushed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab055_For_Loop.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab067.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
