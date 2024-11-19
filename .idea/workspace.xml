@@ -4,22 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="15 Nov code added">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab055_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab056_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab059_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab060_For.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab061_For_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab062_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab063_pass_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab064_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab065_Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab066_Match_Statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab068_Task.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="code modified">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_Built.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Functions_Part3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_Pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab074_Functions_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab075_Functions_Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab076_Functions_Types1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab077_Functions_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab078_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab079_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab080_Real_Args.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,16 +126,27 @@
     "Python.Lab066_Match_Statement.executor": "Run",
     "Python.Lab067.executor": "Debug",
     "Python.Lab068_Task.executor": "Run",
+    "Python.Lab069_Functions.executor": "Run",
+    "Python.Lab070_Functions_Part2.executor": "Run",
+    "Python.Lab072_Functions_Part3.executor": "Run",
+    "Python.Lab073_Pass.executor": "Run",
+    "Python.Lab074_Functions_Types.executor": "Run",
+    "Python.Lab075_Functions_Input.executor": "Run",
+    "Python.Lab076_Functions_Types1.executor": "Run",
+    "Python.Lab077_Functions_IQ.executor": "Run",
+    "Python.Lab078_IQ.executor": "Run",
+    "Python.Lab079_Args.executor": "Run",
     "Python.ex_1.executor": "Run",
     "Python.ex_2_Variables.executor": "Run",
     "Python.ex_3_List.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Nov/ex_12112024_Operators"
+    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Nov/ex_19112024_Functions"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <recent name="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
       <recent name="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables" />
       <recent name="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
@@ -200,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731599201481</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="16 Nov code added">
+      <option name="closed" value="true" />
+      <created>1731784014335</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731784014335</updated>
+    </task>
+    <task id="LOCAL-00007" summary="code modified">
+      <option name="closed" value="true" />
+      <created>1731833152191</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731833152191</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,7 +233,9 @@
     <MESSAGE value="12 nov added codes" />
     <MESSAGE value="Lab045 code modified" />
     <MESSAGE value="14 Nov code pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="14 Nov code pushed" />
+    <MESSAGE value="16 Nov code added" />
+    <MESSAGE value="code modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="code modified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
