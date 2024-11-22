@@ -4,19 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="code modified">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_Part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_Built.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Functions_Part3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_Pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab074_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab075_Functions_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab076_Functions_Types1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab077_Functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab078_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab079_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab080_Real_Args.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="19 Nov code added">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab083_Local_Var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab084_Inner_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab085_Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab086_Decorators1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab087_Without_Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab088_Decorators2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab089_Decorators3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab090_Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab091_IQ_FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab092_Triangle_Classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab093_Type_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab094_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab095_Right_Triangle_Star_Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab096_Inverted_Right_Triangle_Star_Pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,16 +140,34 @@
     "Python.Lab077_Functions_IQ.executor": "Run",
     "Python.Lab078_IQ.executor": "Run",
     "Python.Lab079_Args.executor": "Run",
+    "Python.Lab080_Real_Args.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab082.executor": "Run",
+    "Python.Lab083_Local_Var.executor": "Run",
+    "Python.Lab084_Inner_Functions.executor": "Run",
+    "Python.Lab085_Decorators.executor": "Run",
+    "Python.Lab086_Decorators1.executor": "Run",
+    "Python.Lab087_Without_Decorator.executor": "Run",
+    "Python.Lab088_Decorators2.executor": "Run",
+    "Python.Lab089_Decorators3.executor": "Run",
+    "Python.Lab090_Leap_Year.executor": "Run",
+    "Python.Lab091_IQ_FizzBuzz.executor": "Run",
+    "Python.Lab092_Triangle_Classifier.executor": "Run",
+    "Python.Lab093_Type_Conversion.executor": "Run",
+    "Python.Lab094_Loop.executor": "Run",
+    "Python.Lab095_Right_Triangle_Star_Pattern.executor": "Run",
+    "Python.Lab096_Inverted_Right_Triangle_Star_Pattern.executor": "Debug",
     "Python.ex_1.executor": "Run",
     "Python.ex_2_Variables.executor": "Run",
     "Python.ex_3_List.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Nov/ex_19112024_Functions"
+    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Nov/ex_21112024_Functions_Scopes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
       <recent name="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <recent name="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
       <recent name="$PROJECT_DIR$/Nov/ex_07112024_keywords_idebtifier_variables" />
@@ -224,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731833152191</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="19 Nov code added">
+      <option name="closed" value="true" />
+      <created>1732030421207</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732030421207</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,7 +265,8 @@
     <MESSAGE value="14 Nov code pushed" />
     <MESSAGE value="16 Nov code added" />
     <MESSAGE value="code modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="code modified" />
+    <MESSAGE value="19 Nov code added" />
+    <option name="LAST_COMMIT_MESSAGE" value="19 Nov code added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -248,6 +279,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab067.py</url>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab096_Inverted_Right_Triangle_Star_Pattern.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
