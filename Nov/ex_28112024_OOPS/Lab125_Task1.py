@@ -1,6 +1,3 @@
-from Nov.ex_26112024_Dict.Lab115_Dict_Multiple2 import student_infor1
-
-
 class PyATB:
     name = None
     age = None
@@ -9,7 +6,7 @@ class PyATB:
     weight = None
 
     def __init__(self, name, age, gender, height, weight):
-        print("PC: student info is")
+        # print("PC: student info is")
         self.name = name
         self.age = age
         self.gender = gender
@@ -20,19 +17,26 @@ class PyATB:
     def student_info1(self):
         print("student1 is " + self.name)
 
-    def student_info2(self):
-        print("student2")
+    def student_info(self):
+        print("student name is " + self.name)
+        print("student age is " + str(self.age))
+        print("student gender is " + self.gender)
+        print("student height is " + str(self.height))
+        print("student weight is " + str(self.weight))
 
     def student_info3(self):
         print("student3")
 
-obj1_ref = PyATB("abhishek",34, "M", 5.5, 60)
-print(obj1_ref.name)
-print(obj1_ref.age)
-print(obj1_ref.gender)
-print(obj1_ref.height)
-print(obj1_ref.weight)
-
-obj1_ref.student_info1()
+student1obj_ref = PyATB("abhishek",34, "M", 5.5, 60)
+student2obj_ref = PyATB("ankit",35, "M", 5.8, 55)
+student3obj_ref = PyATB("rahul",37, "M", 6, 65)
+print("student 1 info is\n")
+student1obj_ref.student_info()
+print("student 2 info is\n")
+student2obj_ref.student_info()
+print("student 3 info is\n")
+student3obj_ref.student_info()
+print("-------")
+student1obj_ref.student_info1()
 
 

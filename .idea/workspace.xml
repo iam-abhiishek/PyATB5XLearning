@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="23 nov code">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113_Dict2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab114_Dict_Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_Dict_Multiple2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab116_Dict_Concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab117_Dict_Frequency_Char_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab118_Dict3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab119_Dict_IQ_Max_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab120_Dict_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab121_Dict_Dup_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab122_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab123_Dict_Vowel_Count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab124_Task1_Sorting_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab125_Task1.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="28 nov code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab125_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab125_Task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732377363585</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="28 nov code">
+      <option name="closed" value="true" />
+      <created>1732885779489</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732885779489</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,7 +307,8 @@
     <MESSAGE value="19 Nov code added" />
     <MESSAGE value="21 Nov code added" />
     <MESSAGE value="23 nov code" />
-    <option name="LAST_COMMIT_MESSAGE" value="23 nov code" />
+    <MESSAGE value="28 nov code" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 nov code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
