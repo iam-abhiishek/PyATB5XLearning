@@ -4,25 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="21 Nov code added">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab097_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab098_Lambda1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab099_Lambda3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab099_Lambda4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab100_Lambda_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab101_Lambda5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab102_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_List1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab104_List2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab105_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab106_Tuple1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab107_Tuple2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab108_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab109_Set1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab110_Set2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab111_Set3.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="23 nov code">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113_Dict2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab114_Dict_Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_Dict_Multiple2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab116_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab117_Dict_Frequency_Char_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab118_Dict3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab119_Dict_IQ_Max_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab120_Dict_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab121_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab122_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab123_Dict_Vowel_Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab124_Task1_Sorting_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPS/Lab125_Task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab089_Decorators3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab089_Decorators3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +61,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.120_Dict_IQ.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -174,6 +172,19 @@
     "Python.Lab109_Set1.executor": "Run",
     "Python.Lab110_Set2.executor": "Run",
     "Python.Lab111_Set3.executor": "Run",
+    "Python.Lab112_Dict1.executor": "Run",
+    "Python.Lab113_Dict2.executor": "Run",
+    "Python.Lab114_Dict_Multiple.executor": "Run",
+    "Python.Lab115_Dict_Multiple2.executor": "Run",
+    "Python.Lab116_Dict_Concepts.executor": "Run",
+    "Python.Lab117_Dict_Frequency_Char_String.executor": "Run",
+    "Python.Lab118_Dict3.executor": "Run",
+    "Python.Lab119_Dict_IQ_Max_Values.executor": "Run",
+    "Python.Lab121_Dict_Mul.executor": "Run",
+    "Python.Lab122_Task2.executor": "Run",
+    "Python.Lab123_Dict_Vowel_Count.executor": "Run",
+    "Python.Lab124_Task1_Sorting_Dict.executor": "Run",
+    "Python.Lab125_Task1.executor": "Run",
     "Python.ex_1.executor": "Run",
     "Python.ex_2_Variables.executor": "Run",
     "Python.ex_3_List.executor": "Run",
@@ -279,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732286942664</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="23 nov code">
+      <option name="closed" value="true" />
+      <created>1732377363585</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732377363585</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,7 +311,8 @@
     <MESSAGE value="code modified" />
     <MESSAGE value="19 Nov code added" />
     <MESSAGE value="21 Nov code added" />
-    <option name="LAST_COMMIT_MESSAGE" value="21 Nov code added" />
+    <MESSAGE value="23 nov code" />
+    <option name="LAST_COMMIT_MESSAGE" value="23 nov code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
