@@ -4,31 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="30 nov code modified">
-      <change afterPath="$PROJECT_DIR$/Dec/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab144_Single_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab145_Single_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab146_Multilevel_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab147_Multiple_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab148_Multiple_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab149_Hierarchial_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab150_Hybrid_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab151_Inheritance_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab152_Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab153_Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance/Lab154_Polymorphism_Method_Overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab155_Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab156_Polymorphism_MethodOver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab157_Poly_Method_Overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab158_Poly_Method_Overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab159_Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab160_Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab161_Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab162_Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab163_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab164_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Polymor_Abstraction/Lab165_Task_Abstract_Static.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="10 DEC code modified">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab188_Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab189_Modules_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab190_Import_From.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab191_Import_From.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/ReadMySQL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/browserPackage/CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/browserPackage/OpenBrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,6 +204,7 @@
     "Python.Lab154_Polymorphism_Method_Overriding.executor": "Run",
     "Python.Lab155_Polymorphism.executor": "Run",
     "Python.Lab156_Polymorphism_Abstraction.executor": "Run",
+    "Python.Lab156_Polymorphism_MethodOver.executor": "Run",
     "Python.Lab157_Poly_Method_Overloading.executor": "Run",
     "Python.Lab158_Poly_Method_Overriding.executor": "Run",
     "Python.Lab159_Abstraction.executor": "Run",
@@ -229,6 +214,32 @@
     "Python.Lab163_Static.executor": "Run",
     "Python.Lab164_Static.executor": "Run",
     "Python.Lab165_Task_Abstract_Static.executor": "Run",
+    "Python.Lab166_Exception.executor": "Run",
+    "Python.Lab167_Exception.executor": "Run",
+    "Python.Lab168_Exception.executor": "Run",
+    "Python.Lab169_Exception.executor": "Run",
+    "Python.Lab170_Exception.executor": "Run",
+    "Python.Lab171_Exception.executor": "Run",
+    "Python.Lab172_Exception.executor": "Run",
+    "Python.Lab174_Exception_Fix.executor": "Run",
+    "Python.Lab175_Exception.executor": "Run",
+    "Python.Lab176_Exception_Else.executor": "Run",
+    "Python.Lab177_Exception_OS.executor": "Run",
+    "Python.Lab178_Exception_OS.executor": "Run",
+    "Python.Lab179_Exception_OS.executor": "Run",
+    "Python.Lab180_File_IO.executor": "Run",
+    "Python.Lab181_Custom_Exception.executor": "Run",
+    "Python.Lab182_MainMethod.executor": "Run",
+    "Python.Lab183_MainMethod.executor": "Run",
+    "Python.Lab184_MainMethod.executor": "Run",
+    "Python.Lab185_File_Write.executor": "Run",
+    "Python.Lab186_CSV_File_Read.executor": "Run",
+    "Python.Lab187_CSV_File_Pandas.executor": "Run",
+    "Python.Lab188_Modules.executor": "Run",
+    "Python.Lab189_Modules_P1.executor": "Run",
+    "Python.Lab190_Import_From.executor": "Run",
+    "Python.Lab191_Import_From.executor": "Run",
+    "Python.__init__.executor": "Run",
     "Python.ex_1.executor": "Run",
     "Python.ex_2_Variables.executor": "Run",
     "Python.ex_3_List.executor": "Run",
@@ -366,7 +377,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733126671135</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="05 DEC code modified">
+      <option name="closed" value="true" />
+      <created>1733568239680</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733568239680</updated>
+    </task>
+    <task id="LOCAL-00015" summary="05 DEC code modified">
+      <option name="closed" value="true" />
+      <created>1733568267693</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733568267693</updated>
+    </task>
+    <task id="LOCAL-00016" summary="10 DEC code modified">
+      <option name="closed" value="true" />
+      <created>1733853853034</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1733853853035</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -383,7 +418,9 @@
     <MESSAGE value="28 nov code" />
     <MESSAGE value="28 nov code modified" />
     <MESSAGE value="30 nov code modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 nov code modified" />
+    <MESSAGE value="05 DEC code modified" />
+    <MESSAGE value="10 DEC code modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 DEC code modified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
