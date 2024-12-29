@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="10 DEC code modified">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab188_Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab189_Modules_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab190_Import_From.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab191_Import_From.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/ReadMySQL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/browserPackage/CloseBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/browserPackage/OpenBrowser.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="18 Dec">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_Pytest/test_Lab192_Pytest_Learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_Pytest/test_Lab193_Pytest_Learning02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_Pytest/test_Lab194_Pytest_Learning_Allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_Pytest/test_Lab195_Pytest_Learning_GET.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +51,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_Lab192_Pytest_Learning.py.executor": "Run",
+    "Python tests.Python tests in test_Lab193_Pytest_Learning02.py.executor": "Run",
+    "Python tests.Python tests in test_Lab194_Pytest_Learning_Allure.py.executor": "Run",
+    "Python tests.Python tests in test_Lab195_Pytest_Learning_GET.py.executor": "Run",
     "Python.1.executor": "Run",
     "Python.120_Dict_IQ.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
@@ -243,9 +244,11 @@
     "Python.ex_1.executor": "Run",
     "Python.ex_2_Variables.executor": "Run",
     "Python.ex_3_List.executor": "Run",
+    "Python.test_Lab192_Pytest_Learning.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Dec/ex_03122024_OOPS_Inheritance"
+    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Dec/ex_03122024_OOPS_Inheritance",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -401,7 +404,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733853853035</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="18 Dec">
+      <option name="closed" value="true" />
+      <created>1734537604458</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1734537604458</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -420,7 +431,8 @@
     <MESSAGE value="30 nov code modified" />
     <MESSAGE value="05 DEC code modified" />
     <MESSAGE value="10 DEC code modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 DEC code modified" />
+    <MESSAGE value="18 Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="18 Dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
