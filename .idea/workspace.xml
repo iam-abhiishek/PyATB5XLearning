@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="29 Dec">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_Pytest_Request_Module/test_Lab196_Pytest_Learn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_Pytest_Request_Module/test_Lab197_Pytest_Post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_Pytest_Request_Module/test_Lab198_Pytest_Post_Token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_Pytest_Request_Module/test_Lab199_Pytest_Put_Request.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="31 dec">
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_CSV_Read/Lab202_Test_CSV_Read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_CSV_Read/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_CSV_Read/userdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Fixture/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Fixture/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Fixture/test_Lab203_Fixture_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Fixture/test_Lab204_Fixture_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Fixture/test_Lab205_Update_Fixture_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Fixture/test_Web_Automation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab200_Pytest_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab201_Pytest_Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +62,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for test_Lab197_Pytest_Post.test_create_booking_positive_tc1.executor": "Run",
+    "Python tests.Python tests in Lab202_Test_CSV_Read.py.executor": "Run",
     "Python tests.Python tests in test_Lab192_Pytest_Learning.py.executor": "Run",
     "Python tests.Python tests in test_Lab193_Pytest_Learning02.py.executor": "Run",
     "Python tests.Python tests in test_Lab194_Pytest_Learning_Allure.py.executor": "Run",
@@ -59,6 +70,10 @@
     "Python tests.Python tests in test_Lab197_Pytest_Post.py.executor": "Run",
     "Python tests.Python tests in test_Lab198_Pytest_Post_Token.py.executor": "Run",
     "Python tests.Python tests in test_Lab199_Pytest_Put_Request.py.executor": "Run",
+    "Python tests.Python tests in test_Lab200_Pytest_Task.py.executor": "Run",
+    "Python tests.Python tests in test_Lab204_Fixture_2.py.executor": "Run",
+    "Python tests.Python tests in test_Lab205_Update_Fixture_3.py.executor": "Run",
+    "Python tests.Python tests in tset_Lab203_Fixture_1.py.executor": "Run",
     "Python.1.executor": "Run",
     "Python.120_Dict_IQ.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
@@ -446,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735458153825</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="31 dec">
+      <option name="closed" value="true" />
+      <created>1735816882827</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735816882827</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -467,7 +490,8 @@
     <MESSAGE value="10 DEC code modified" />
     <MESSAGE value="18 Dec" />
     <MESSAGE value="29 Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="29 Dec" />
+    <MESSAGE value="31 dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="31 dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -493,6 +517,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab137_Enacpsulation.py</url>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab200_Pytest_Task2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
