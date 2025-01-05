@@ -55,15 +55,3 @@ def test_delete_request():
 
     response = requests.delete(url=delete_url, headers=headers)
     assert response.status_code == 201
-
-def test_get_booking():
-    global bookingid
-    get_booking_base_path = "/booking/" + str(bookingid)
-    get_booking_url = base_url + get_booking_base_path
-
-    get_response = requests.get(url=get_booking_url)
-    assert get_response.status_code == 404
-    assert get_response.text == "Not Found"
-    print("bookingid->",bookingid)
-
-

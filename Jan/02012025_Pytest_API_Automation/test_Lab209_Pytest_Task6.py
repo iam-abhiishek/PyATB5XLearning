@@ -55,15 +55,31 @@ def test_delete_request():
 
     response = requests.delete(url=delete_url, headers=headers)
     assert response.status_code == 201
-
-def test_get_booking():
-    global bookingid
-    get_booking_base_path = "/booking/" + str(bookingid)
-    get_booking_url = base_url + get_booking_base_path
-
-    get_response = requests.get(url=get_booking_url)
-    assert get_response.status_code == 404
-    assert get_response.text == "Not Found"
     print("bookingid->",bookingid)
 
+def test_update_booking_id():
+    global bookingid
+    token = create_token()
+    # bookingid = create_booking_id()
+    base_path = "/booking/" + str(bookingid)
+    cookie = "token=" + token
+    update_url = base_url + base_path
+    headers = {
+        "Content-Type": "application/json",
+        "Cookie": cookie
+    }
+    payload = {
+        "firstname": "James",
+        "lastname": "Brown",
+        "totalprice": 111,
+        "depositpaid": True,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
 
+    response = requests.put(url=update_url, headers=headers,json=payload)
+    assert response.status_code == 404
+    print("bookingid->",bookingid)
