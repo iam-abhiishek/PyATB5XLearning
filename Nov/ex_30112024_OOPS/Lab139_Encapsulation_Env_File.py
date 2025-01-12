@@ -1,5 +1,5 @@
 
-# Web Automation - Selenium
+# Web Automation - ex11012025_SeleniumTest
 # Page - You are going automate
 
 from dotenv import load_dotenv

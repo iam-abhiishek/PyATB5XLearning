@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="02 Jan">
-      <change afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/conftest1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab206_Pytest_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab207_Pytest_Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab208_Pytest_Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab209_Pytest_Task6.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="04 Jan">
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_SeleniumTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_SeleniumTest/test01_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test02_Selenium_Commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test03_Selenium_Miniproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test04_Selenium_Close_Quit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test04_Selenium_Multiple_Browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test04_Selenium_Parallel_Execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test05_Selenium_Task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab200_Pytest_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab200_Pytest_Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab201_Pytest_Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation/test_Lab201_Pytest_Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab138_Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab138_Encapsulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab139_Encapsulation_Env_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab139_Encapsulation_Env_File.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,13 @@
   "keyToString": {
     "Python tests.Python tests for test_Lab197_Pytest_Post.test_create_booking_positive_tc1.executor": "Run",
     "Python tests.Python tests in Lab202_Test_CSV_Read.py.executor": "Run",
+    "Python tests.Python tests in test01_Selenium.py.executor": "Run",
+    "Python tests.Python tests in test02_Selenium_Commands.py.executor": "Run",
+    "Python tests.Python tests in test03_Selenium_Miniproject.py.executor": "Run",
+    "Python tests.Python tests in test04_Selenium_Close_Quit.py.executor": "Run",
+    "Python tests.Python tests in test04_Selenium_Multiple_Browser.py.executor": "Run",
+    "Python tests.Python tests in test04_Selenium_Parallel_Execution.py.executor": "Run",
+    "Python tests.Python tests in test05_Selenium_Task1.py.executor": "Run",
     "Python tests.Python tests in test_Lab192_Pytest_Learning.py.executor": "Run",
     "Python tests.Python tests in test_Lab193_Pytest_Learning02.py.executor": "Run",
     "Python tests.Python tests in test_Lab194_Pytest_Learning_Allure.py.executor": "Run",
@@ -268,17 +279,17 @@
     "Python.test_Lab192_Pytest_Learning.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Jan/02012025_Pytest_API_Automation",
+    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Jan/ex02_Selenium_Basic",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Jan/ex02_Selenium_Basic" />
       <recent name="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation" />
       <recent name="$PROJECT_DIR$/Dec/ex_03122024_OOPS_Inheritance" />
       <recent name="$PROJECT_DIR$/Nov/ex_23112024_Lambda_Map_Filters" />
       <recent name="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
-      <recent name="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
     </key>
   </component>
   <component name="RunManager">
@@ -487,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735917831931</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="04 Jan">
+      <option name="closed" value="true" />
+      <created>1736064555954</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736064555954</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -510,7 +529,8 @@
     <MESSAGE value="29 Dec" />
     <MESSAGE value="31 dec" />
     <MESSAGE value="02 Jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="02 Jan" />
+    <MESSAGE value="04 Jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="04 Jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
