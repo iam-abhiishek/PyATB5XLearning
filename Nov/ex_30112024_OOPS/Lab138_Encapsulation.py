@@ -1,5 +1,5 @@
 
-# Web Automation - ex11012025_SeleniumTest
+# Web Automation - ex_11012025_SeleniumTest
 # Page - You are going automate
 
 class VWOLoginPage:
