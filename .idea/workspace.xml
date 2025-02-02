@@ -4,37 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="12 Jan">
-      <change afterPath="$PROJECT_DIR$/Jan/ex_16012025_Selenium_Locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_16012025_Selenium_Locators/test06_Selenium_Locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_16012025_Selenium_Locators/test07_Selenium_Locators_Options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_16012025_Selenium_Locators/test08_Selenium_Miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_16012025_Selenium_Locators/test09_Selenium_Miniproject2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_16012025_Selenium_Locators/test10_Selenium_Miniproject3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_18012025_Selenium_Project3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_18012025_Selenium_Project3/test11_Selenium_Project3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_18012025_Selenium_Project3/test12_Ebay_Project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts/test16_javascript_alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts/test17_modal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts/test18_MakeMyTrip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Waits/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Waits/test13_Waits_Implicit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Waits/test14_Waits_Explicit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Waits/test15_Waits_Fluent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="21 Jan">
+      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test16_Selenium_Actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test17_Selenium_Actions_Mouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test18_Selenium_ClickandHold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test19_Selenium_Actions_MakemyTrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test20_Selenium_Window_Handles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_SeleniumTest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_SeleniumTest/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_SeleniumTest/test01_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_SeleniumTest/test01_Selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test02_Selenium_Commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test02_Selenium_Commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test03_Selenium_Miniproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test03_Selenium_Miniproject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test04_Selenium_Close_Quit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test04_Selenium_Close_Quit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test04_Selenium_Multiple_Browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test04_Selenium_Multiple_Browser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test04_Selenium_Parallel_Execution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test04_Selenium_Parallel_Execution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex11012025_Selenium_Basic/test05_Selenium_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test05_Selenium_Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab138_Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab138_Encapsulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab139_Encapsulation_Env_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPS/Lab139_Encapsulation_Env_File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test02_Selenium_Commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test02_Selenium_Commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts/test18_MakeMyTrip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts/test18_MakeMyTrip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,9 +75,15 @@
     "Python tests.Python tests in test13_Waits_Explicit.py.executor": "Run",
     "Python tests.Python tests in test13_Waits_Fluent.py.executor": "Run",
     "Python tests.Python tests in test13_Waits_Implicit.py.executor": "Run",
+    "Python tests.Python tests in test15_Waits_Fluent.py.executor": "Run",
+    "Python tests.Python tests in test16_Selenium_Actions.py.executor": "Run",
     "Python tests.Python tests in test16_javascript_alerts.py.executor": "Run",
+    "Python tests.Python tests in test17_Selenium_Actions_Mouse.py.executor": "Run",
     "Python tests.Python tests in test17_modal.py.executor": "Run",
     "Python tests.Python tests in test18_MakeMyTrip.py.executor": "Run",
+    "Python tests.Python tests in test18_Selenium_ClickandHold.py.executor": "Run",
+    "Python tests.Python tests in test19_Selenium_Actions_MakemyTrip.py.executor": "Run",
+    "Python tests.Python tests in test20_Selenium_Window_Handles.py.executor": "Run",
     "Python tests.Python tests in test_Lab192_Pytest_Learning.py.executor": "Run",
     "Python tests.Python tests in test_Lab193_Pytest_Learning02.py.executor": "Run",
     "Python tests.Python tests in test_Lab194_Pytest_Learning_Allure.py.executor": "Run",
@@ -310,18 +295,19 @@
     "Python.ex_3_List.executor": "Run",
     "Python.test_Lab192_Pytest_Learning.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Jan/ex_21012025_Selenium_Alerts",
+    "last_opened_file_path": "/Users/abhishek/PycharmProjects/PyATB5XLearning/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS" />
       <recent name="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts" />
       <recent name="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Waits" />
       <recent name="$PROJECT_DIR$/Jan/ex_16012025_Selenium_Locators" />
       <recent name="$PROJECT_DIR$/Jan/ex02_Selenium_Basic" />
-      <recent name="$PROJECT_DIR$/Jan/02012025_Pytest_API_Automation" />
     </key>
   </component>
   <component name="RunManager">
@@ -365,7 +351,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -562,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736699955266</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="21 Jan">
+      <option name="closed" value="true" />
+      <created>1738431845077</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1738431845077</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -587,7 +581,8 @@
     <MESSAGE value="02 Jan" />
     <MESSAGE value="04 Jan" />
     <MESSAGE value="12 Jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 Jan" />
+    <MESSAGE value="21 Jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="21 Jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

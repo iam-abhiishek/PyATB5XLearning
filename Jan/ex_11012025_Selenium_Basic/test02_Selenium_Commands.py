@@ -1,8 +1,8 @@
 from selenium import webdriver
 import pytest
-import allure
+# import allure
 
-@allure.title("Verify that the title of vwo.com is expected")
+# @allure.title("Verify that the title of vwo.com is expected")
 def test_vwo_sample():
     driver = webdriver.Chrome()
     driver.get("https://app.vwo.com")

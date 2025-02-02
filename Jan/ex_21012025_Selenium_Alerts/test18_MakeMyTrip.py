@@ -6,10 +6,10 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import pytest
-import allure
+# import allure
 
-@allure.title("Modals")
-@allure.description("Verify Modals in Makemy trip site ")
+# @allure.title("Modals")
+# @allure.description("Verify Modals in Makemytrip site ")
 def test_modal_chrome():
     driver = webdriver.Chrome()
     driver.get("https://www.makemytrip.com/")
