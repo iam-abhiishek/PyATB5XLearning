@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="21 Jan">
-      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test16_Selenium_Actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test17_Selenium_Actions_Mouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test18_Selenium_ClickandHold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test19_Selenium_Actions_MakemyTrip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test20_Selenium_Window_Handles.py" afterDir="false" />
+    <list default="true" id="6e3c1325-3058-45ad-a96d-20ab6f96bf3e" name="Changes" comment="23 Jan">
+      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test21_Spicejet_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_23012025_Selenium_Actions_Windows_iFrames_JS/test22_Spicejet_Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test02_Selenium_Commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_11012025_Selenium_Basic/test02_Selenium_Commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts/test18_MakeMyTrip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex_21012025_Selenium_Alerts/test18_MakeMyTrip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +78,8 @@
     "Python tests.Python tests in test18_Selenium_ClickandHold.py.executor": "Run",
     "Python tests.Python tests in test19_Selenium_Actions_MakemyTrip.py.executor": "Run",
     "Python tests.Python tests in test20_Selenium_Window_Handles.py.executor": "Run",
+    "Python tests.Python tests in test21_Spicejet_Task.py.executor": "Run",
+    "Python tests.Python tests in test22_Spicejet_Task2.py.executor": "Run",
     "Python tests.Python tests in test_Lab192_Pytest_Learning.py.executor": "Run",
     "Python tests.Python tests in test_Lab193_Pytest_Learning02.py.executor": "Run",
     "Python tests.Python tests in test_Lab194_Pytest_Learning_Allure.py.executor": "Run",
@@ -556,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738431845077</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="23 Jan">
+      <option name="closed" value="true" />
+      <created>1738505444232</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1738505444232</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -582,7 +586,8 @@
     <MESSAGE value="04 Jan" />
     <MESSAGE value="12 Jan" />
     <MESSAGE value="21 Jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="21 Jan" />
+    <MESSAGE value="23 Jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="23 Jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
